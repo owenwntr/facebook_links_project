@@ -1,0 +1,70 @@
+"Population by country of birth, split by EU and non-EU country of birth, for year ending December 2016 (Thousands)",,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Of Non-UK Born,,,,
+,,Total UK Born,,,Total Non-UK Born,,,EU ,,,Non-EU ,
+,,,,,,,,,,,,
+Council area,,estimate,CI +/-,,estimate,CI +/-,,estimate,CI +/-,,estimate,CI +/-
+,,,,,,,,,,,,
+Scotland,,"4,838",84,,457,26,,218,18,,239,19
+Aberdeen City,,178,19,,48,10,,27,7,,21,7
+Aberdeenshire,,239,25,,23,8,,11,5,,12,6
+Angus,,109,10,,6,2,,4,2,,3,2
+Argyll and Bute,,80,7,,5,2,,2,1,,2,1
+City of Edinburgh,,402,44,,90,21,,42,14,,48,15
+Clackmannanshire,,47,6,,4,2,,2,1,,2,1
+Dumfries and Galloway,,141,12,,6,2,,3,2,,4,2
+Dundee City,,133,12,,12,3,,6,2,,6,2
+East Ayrshire,,117,11,,4,2,,2,1,,2,1
+East Dunbartonshire,,102,9,,5,2,,1,1,,4,2
+East Lothian,,97,9,,5,2,,3,2,,2,1
+East Renfrewshire,,85,8,,7,2,,1,1,,6,2
+Falkirk,,148,13,,9,3,,5,2,,4,2
+Fife,,332,32,,30,10,,16,7,,14,7
+Glasgow City,,500,50,,91,21,,32,13,,59,17
+Highland,,217,20,,13,5,,8,4,,4,3
+Inverclyde,,76,7,,2,1,,1,1,,1,1
+Midlothian,,83,9,,4,2,,2,1,,2,2
+Moray,,89,8,,5,2,,3,1,,2,1
+Na h-Eileanan Siar,,26,3,,1,1,,1,0~,,0~,0~
+North Ayrshire,,130,12,,4,2,,2,1,,2,1
+North Lanarkshire,,321,29,,15,6,,6,4,,8,5
+Orkney Islands,,21,4,,1,1,,0~,0~,,0~,1
+Perth and Kinross,,136,14,,10,4,,6,3,,4,2
+Renfrewshire,,161,14,,12,4,,6,3,,6,3
+Scottish Borders ,,107,10,,6,2,,3,2,,3,2
+Shetland Islands,,23,5,,0~,1,,c,c,,0~,0~
+South Ayrshire,,107,9,,4,2,,2,1,,2,1
+South Lanarkshire,,301,26,,12,5,,6,4,,6,4
+Stirling,,83,8,,6,2,,2,1,,3,2
+West Dunbartonshire,,85,8,,4,2,,2,1,,2,1
+West Lothian,,162,15,,15,5,,9,4,,6,3
+,,,,,,,,,,,,
+"Source: Annual Population Survey (APS), Office for National Statistics (ONS)",,,,,,,,,,,,
+Totals may not sum due to rounding,,,,,,,,,,,,
+ '.' = no contact,,,,,,,,,,,,
+ '0~' = rounded to zero,,,,,,,,,,,,
+ 'c' = not available due to disclosure control,,,,,,,,,,,,
+ ':' = not available,,,,,,,,,,,,
+,,,,,,,,,,,,
+Notes,,,,,,,,,,,,
+"Estimates are based on the Annual Population Survey (APS) which is made up of wave 1 and wave 5 of the Labour Force Survey (LFS) plus annual sample boosts which are included primarily to enhance the geographical coverage. As some residents of communal establishments are excluded from the coverage of this survey the estimates in this table are different from the standard ONS mid-year population estimates, which cover all usual residents. ",,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+"For a more comprehensive estimate of the UK population, please refer to the ONS website.",,,,,,,,,,,,
+,,,,,,,,,,,,
+It should be noted that the LFS :-,,,,,,,,,,,,
+Excludes students in halls who do not have a UK resident parent,,,,,,,,,,,,
+"Excludes people in most other types of communal establishments (for example hotels, boarding houses, hostels, mobile home sites, etc)",,,,,,,,,,,,
+Is grossed to population estimates of those living in private households. An adjustment is made for those who live in some NHS accommodation and halls of residence whose parents live in the UK. For this reason the sum of those born in the UK and outside the UK may not agree with the published population estimate. ,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+The LFS weighting does not adjust for non-response bias by the country of birth variable.,,,,,,,,,,,,
+,,,,,,,,,,,,
+"Area codes, in nine character format, operative from 1 January 2011.",,,,,,,,,,,,
+,,,,,,,,,,,,
+CI = confidence interval. CI is defined as: 1.96 x standard error. Estimate + CI and Estimate - CI are the upper and lower 95% confidence limits.,,,,,,,,,,,,
+,,,,,,,,,,,,
+"If the confidence interval is higher than the estimate, the estimate is not considered reliable for practical purposes. Where the lower confidence limit is below zero users should assume the estimate is above zero.",,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+© Crown Copyright 2017,,,,,,,,,,,,
