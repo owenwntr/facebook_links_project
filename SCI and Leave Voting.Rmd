@@ -565,6 +565,10 @@ Bayesian Inf. Crit. & 28,645 & 20,855 & 20,845 & 20,860 & 20,869 & 20,880 \\
 
 This study has not provided conclusive evidence of an effect of transnational social connectedness on voting choices in the 2016 EU Referendum. This may be due to the aggregation of SCI scores, measurement error, confounding variables, or simply that the theorised effect does not occur. One interesting result, which ought to be studied further, is the significant positive relationship between voting to leave the EU and internal SCI. Internal SCI shows connectedness within regions, and tends to be highest in areas which are relatively isolated (especially island regions). This may reflect suspicion of migration and/or transnational institutions in tightly knit communities, or a particular form of social transmission of euroscepticism. Internal SCI is also likely to be closely correlated to areas with fewer links to other areas of the UK, which may be related to narratives of regional inequality and "geography of discontent" [@mccann2021].
 
+# Replication Materials {-}
+
+Winter, O. (2022) Facebook Links Project. GitHub Repository. [https://github.com/owenwntr/facebook_links_project](https://github.com/owenwntr/facebook_links_project)
+
 # R Packages {-}
 
 * creditmodel [@creditmodel]
