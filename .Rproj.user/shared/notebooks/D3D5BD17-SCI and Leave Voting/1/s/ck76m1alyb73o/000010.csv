@@ -1,2 +1,0 @@
-"0",""
-"0","internal <- links[which(links$user_loc==links$fr_loc),]"
